@@ -1,2 +1,2 @@
 # Implementations
-The following Repository Shows some Deep-Learning Implementations I have done using pytorch framework
+This Repository Shows some of the Deep-Learning Implementations I implemented using pytorch framework, mostly focusing on GAN's for generation of synthetic data.
