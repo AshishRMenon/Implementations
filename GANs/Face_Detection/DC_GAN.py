@@ -7,7 +7,6 @@
 
 
 from __future__ import print_function
-#%matplotlib inline
 import argparse
 import os
 import random
