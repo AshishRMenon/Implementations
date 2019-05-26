@@ -1,1 +1,1 @@
-Implementation of GAN's for synthetic generation of data from given datasets.
+Implementation of GAN's for synthetic generation of data from given datasets
